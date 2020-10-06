@@ -1,0 +1,9 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  reconnect: false
+  database: ecop
+  pool: 50
+  username: gargshabh
+  password: 1234
+
