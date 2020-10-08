@@ -39,3 +39,19 @@ The app is ready for completing functioning
 
 
 # Screenshot
+
+![list of all criminals](https://github.com/gargsahab2300/ecop/blob/master/screenshot/image.jpg?raw=true)
+![form  for new criminal entry](https://github.com/gargsahab2300/ecop/blob/master/screenshot/image6.jpg?raw=true)
+![Details of particular criminal](https://github.com/gargsahab2300/ecop/blob/master/screenshot/image12.jpg?raw=true)
+
+![all police station record](https://github.com/gargsahab2300/ecop/blob/master/screenshot/image1.jpg?raw=true)
+![Form for police station registration](https://github.com/gargsahab2300/ecop/blob/master/screenshot/image4.jpg?raw=true)
+![Details of Particular police station](https://github.com/gargsahab2300/ecop/blob/master/screenshot/image8.jpg?raw=true)
+
+![All reports ](https://github.com/gargsahab2300/ecop/blob/master/screenshot/image9.jpg?raw=true)
+![Form for new report](https://github.com/gargsahab2300/ecop/blob/master/screenshot/image5.jpg?raw=true)
+![Details of particular report](https://github.com/gargsahab2300/ecop/blob/master/screenshot/image7.jpg?raw=true)
+
+![Show all crime](https://github.com/gargsahab2300/ecop/blob/master/screenshot/image2.jpg?raw=true)
+![Create a new crime](https://github.com/gargsahab2300/ecop/blob/master/screenshot/image10.jpg?raw=true)
+![Details about crime](https://github.com/gargsahab2300/ecop/blob/master/screenshot/image11.jpg?raw=true)
