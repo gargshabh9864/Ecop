@@ -23,10 +23,12 @@ ActiveAdmin.register Criminal do
 			row :address
 			row :aadhar_card_number
 			row :phone_number
-      row :number_of_crime
+			row 'number of crimes' do
+				criminal.crimes.count
+			end
 		end
 		panel 'Crimes' do
-			table_for criminal.crimes, class: 'index_table' do
+			table_for criminal.crimes.uniq, class: 'index_table' do
 				column :id
 				column :name
 			end

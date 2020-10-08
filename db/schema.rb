@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_10_06_174643) do
+ActiveRecord::Schema.define(version: 2020_10_08_005950) do
 
   create_table "active_admin_comments", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
     t.string "namespace"
@@ -61,6 +61,30 @@ ActiveRecord::Schema.define(version: 2020_10_06_174643) do
     t.integer "number_of_crime", default: 0
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "report_criminals", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
+    t.bigint "report_id"
+    t.bigint "criminal_id"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["criminal_id"], name: "index_report_criminals_on_criminal_id"
+    t.index ["report_id"], name: "index_report_criminals_on_report_id"
+  end
+
+  create_table "reports", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
+    t.string "fir_no"
+    t.string "accused_name"
+    t.string "accused_number"
+    t.string "reporter_name"
+    t.string "reporter_number"
+    t.boolean "is_accused_filing_report", default: true
+    t.text "description"
+    t.string "location"
+    t.bigint "crime_id"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["crime_id"], name: "index_reports_on_crime_id"
   end
 
   create_table "stations", options: "ENGINE=InnoDB DEFAULT CHARSET=utf8", force: :cascade do |t|
