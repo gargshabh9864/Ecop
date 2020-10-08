@@ -40,18 +40,17 @@ The app is ready for completing functioning
 
 # Screenshot
 
-![list of all criminals](https://github.com/gargshabh9864/Ecop/blob/master/screenshot/image.jpg?raw=true)
-![form  for new criminal entry](https://github.com/gargshabh9864/Ecop/blob/master/screenshot/image6.jpg?raw=true)
-![Details of particular criminal](https://github.com/gargshabh9864/Ecop/blob/master/screenshot/image12.jpg?raw=true)
+![list of all criminals](https://raw.githubusercontent.com/gargshabh9864/Ecop/master/screenshot/image.jpg "list of all criminals")
+![form  for new criminal entry](https://raw.githubusercontent.com/gargshabh9864/Ecop/master/screenshot/image6.jpg "form  for new criminal entry")
+![Details of particular criminal](https://raw.githubusercontent.com/gargshabh9864/Ecop/master/screenshot/image12.jpg "Details of particular criminal")
 
-![all police station record](https://github.com/gargshabh9864/Ecop/blob/master/screenshot/image1.jpg?raw=true)
-![Form for police station registration](https://github.com/gargshabh9864/Ecop/blob/master/screenshot/image4.jpg?raw=true)
-![Details of Particular police station](https://github.com/gargshabh9864/Ecop/blob/master/screenshot/image8.jpg?raw=true)
+![all police station record](https://raw.githubusercontent.com/gargshabh9864/Ecop/master/screenshot/image1.jpg "all police station record")
+![Details of Particular police station](https://raw.githubusercontent.com/gargshabh9864/Ecop/master/screenshot/image8.jpg "Details of Particular police station")
 
-![All reports ](https://github.com/gargshabh9864/Ecop/blob/master/screenshot/image9.jpg?raw=true)
-![Form for new report](https://github.com/gargshabh9864/Ecop/blob/master/screenshot/image5.jpg?raw=true)
-![Details of particular report](https://github.com/gargshabh9864/Ecop/blob/master/screenshot/image7.jpg?raw=true)
+![All reports ](https://raw.githubusercontent.com/gargshabh9864/Ecop/master/screenshot/image9.jpg "All reports")
+![Form for new report](https://raw.githubusercontent.com/gargshabh9864/Ecop/master/screenshot/image5.jpg "Form for new report")
+![Details of particular report](https://raw.githubusercontent.com/gargshabh9864/Ecop/master/screenshot/image7.jpg "Details of particular report")
 
-![Show all crime](https://github.com/gargshabh9864/Ecop/blob/master/screenshot/image2.jpg?raw=true)
-![Create a new crime](https://github.com/gargshabh9864/Ecop/blob/master/screenshot/image10.jpg?raw=true)
-![Details about crime](https://github.com/gargshabh9864/Ecop/blob/master/screenshot/image11.jpg?raw=true)
+![Show all crime](https://raw.githubusercontent.com/gargshabh9864/Ecop/master/screenshot/image2.jpg "Show all crime")
+![Create a new crime](https://raw.githubusercontent.com/gargshabh9864/Ecop/master/screenshot/image10.jpg "Create a new crime" )
+![Details about crime](https://raw.githubusercontent.com/gargshabh9864/Ecop/master/screenshot/image11.jpg "Details about crime")
